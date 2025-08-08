@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🌾 LandGPT - AI Legal Assistant for Land Records
 Democratizing access to land ownership information for millions of Indian citizens
 
@@ -155,3 +156,7 @@ Rural communities whose needs inspire this project
 
 🌾 Together, let's democratize access to land records and empower rural India! 🇮🇳
 
+=======
+# landgpt
+AI Legal Assistant for Indian Land Records - Democratizing access to land ownership informatio
+>>>>>>> 57687fece128e2e7d1ae4f05671de7546a92fc0b
